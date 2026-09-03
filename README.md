@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./sobat.jpg" width="150" alt="Sobat">
+</p>
 
 <h1 align="center">Hi 👋, I'm Sobat Binte Mannan</h1>
 <h3 align="center">Aspiring Full-Stack Web Engineer</h3>
