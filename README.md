@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./sobat.jpg" width="150" alt="Sobat">
+  <img src="./sobat.jpg.jpeg" width="150" alt="Sobat">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sobat Binte Mannan</h1>
